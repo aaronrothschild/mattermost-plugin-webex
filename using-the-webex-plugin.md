@@ -6,21 +6,21 @@ description: Easily start and join Webex meetings directly from Mattermost
 
 ### Starting a Meeting
 
-There are two primary ways of initiating a new Webex Meeting from within Mattermost:
+There are two methods to initiate a new Webex Meeting from within Mattermost:
 
-* Clicking the Webex Meeting Button at the top right of the channel 
+1. Clicking the Webex Meeting Button at the top right of the channel 
 
 ![](.gitbook/assets/2019-10-09_10-04-12.png)
 
-* or by typing `/webex start` and pressing 'enter' in a chat window
+    2. by typing `/webex start` and pressing 'enter' in a chat window
 
 ![](.gitbook/assets/2019-10-09_10-05-30.png)
 
 ## Joining a Meeting from a channel
 
-If you are the meeting organizer and want to start the meeting for other participants, click on the link that is shown below the "Join Meeting" button.  This link brings you directly to the meeting and will ask you to login to Webex if you haven't already.
+If you are the meeting organizer and want to start the meeting for other participants, click on the link that is shown below the "Join Meeting" button. This link brings you directly to the meeting and will ask you to login to Webex if you haven't already.
 
-If you are joining a meeting as a participant, you will only see the "Join Meeting" button in your channel.  simply click it to be brought to the Webex meeting.
+If you are joining a meeting as a participant, you will only see the "Join Meeting" button in your channel. simply click it to be brought to the Webex meeting.
 
 ![After initiating a meeting, if you are the organizer - you will see a second link to start the meeting.](.gitbook/assets/2019-10-09_10-09-04.png)
 

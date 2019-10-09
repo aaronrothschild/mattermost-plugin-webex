@@ -13,8 +13,6 @@ description: >-
    2. Go to Settings --&gt; Plugins --&gt; Upload Plugin. Select the file you downloaded, upload it to the server. In server 5.14+, plugins will automatically be distributed across an Enterprise cluster of Mattermost servers, prior to v5.14 you will need to deploy the plugin on each server manually.
 2. Go to settings --&gt; Plugin Management and Enable the Webex Meeting Plugin
 
-
-
 ## Configuration
 
 1. Go to Settings --&gt; Scroll down to the `Plugins` section, and click on `Webex Plugin`
